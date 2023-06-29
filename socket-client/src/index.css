@@ -8,6 +8,14 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  
+
   margin-top: 4rem;
+}
+
+.room{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+  gap: 9px;
 }
