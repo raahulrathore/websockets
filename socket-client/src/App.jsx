@@ -30,7 +30,7 @@ function App() {
     <>
       <div className="app">
         <input placeholder="message" onInput={handleInput} />
-        <button onClick={sendMessage}>Send</button>
+        {/* <button>Send</button> */}
       </div>
       <div className="message">
         <h3> {recievedMessage}</h3>
